@@ -1,0 +1,42 @@
+.h1{
+  font-size: 12px;
+}
+.img{
+  width: 320px;
+  height: 260px;
+  padding-left: 100px;
+  position: relative;
+  top: 10px;
+}
+.img2{
+  width: 320px;
+  height: 260px;
+  padding-left: 250px;
+  position: relative;
+  top: 20px;
+}
+.img3{
+  width: 320px;
+  height: 260px;
+  padding-left: 8px;
+  position: relative;
+  top: 50px;
+}
+.img4{
+  width: 320px;
+  height: 260px;
+  padding-left: 8px;
+  position: relative;
+  top: 70px;
+}
+.font{
+  text-align: center;
+}
+.font1{
+  text-align: center;
+}
+.gmr{
+  width: 95%;
+  height: 352px;
+  padding-left: 30px;
+}
